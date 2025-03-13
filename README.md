@@ -1,2 +1,2 @@
 # welcome-edubridge
-this is welcome repositiry
+this is welcome repositary
